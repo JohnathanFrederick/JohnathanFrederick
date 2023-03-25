@@ -13,4 +13,37 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+Portfólio
+   1. Meus principais cases
+     - Projetos em low-code
+     - Projetos em python
+
+   2. Meus demais projetos
+     - Kaggle
+     - CodePen
+
+Habilidades técnicas
+   1. Linguagens de programação
+     - Python
+     - C
+     - JavaScrpit 
+     - Html
+
+   2. Softwares
+     - Excell
+     - PowerBi
+     - VsCode
+
+   3. Framework
+     - ReactJs
+
+Estudos
+   1. O que estou aprendendo
+
+   2. Meus cursos extracurriculares
+
+   3. Minha graduação
+
 -->
